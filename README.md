@@ -15,24 +15,31 @@ about the drive and opt which one they want to sit for you.
 Glimpses of the application: 
 
 ![ScreenShot](https://github.com/Shaheer-rossoneri14/Placement_App_CMRIT/blob/main/SS/home.png)
+
 Home Page
 
 ![ScreenShot](https://github.com/Shaheer-rossoneri14/Placement_App_CMRIT/blob/main/SS/TReg.png)
+
 TPO Registration Page
 
 ![ScreenShot](https://github.com/Shaheer-rossoneri14/Placement_App_CMRIT/blob/main/SS/Tlogin.png)
+
 TPO Login Page
 
 ![ScreenShot](https://github.com/Shaheer-rossoneri14/Placement_App_CMRIT/blob/main/SS/TDashboard.png)
+
 Add New Drive Page
 
 ![ScreenShot]https://github.com/Shaheer-rossoneri14/Placement_App_CMRIT/blob/main/SS/SReg.png)
+
 Student Registration Page
 
 ![ScreenShot](https://github.com/Shaheer-rossoneri14/Placement_App_CMRIT/blob/main/SS/SLogin.png)
+
 Student Login Page
 
 ![ScreenShot](https://github.com/Shaheer-rossoneri14/Placement_App_CMRIT/blob/main/SS/SDashboard.png)
+
 View Drive List
 
 
