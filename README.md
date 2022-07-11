@@ -30,7 +30,7 @@ TPO Login Page
 
 Add New Drive Page
 
-![ScreenShot]https://github.com/Shaheer-rossoneri14/Placement_App_CMRIT/blob/main/SS/SReg.png)
+![ScreenShot](https://github.com/Shaheer-rossoneri14/Placement_App_CMRIT/blob/main/SS/SReg.png)
 
 Student Registration Page
 
