@@ -1,10 +1,9 @@
-# Placement_App_CMRIT
+# Placement Application CMRIT
 The Placement Application eases the way communication takes place between the
 Training and Placement Department and the students. It has two different modules. The first one is for the Training Officers and Placement Officers which will be
 addressed as TPO hereon, while the other module is for the students.
 
 
-##Introduction
 The Placement Application is a Mobile Application developed using Java for Android
 Phones. It is very easy, simple and efficient to use. The process of Registering on the
 application is very simple and hassle-free. The application has separate Login Pages
