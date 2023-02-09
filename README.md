@@ -1,15 +1,9 @@
 # Placement Application CMRIT
-The Placement Application eases the way communication takes place between the
-Training and Placement Department and the students. It has two different modules. The first one is for the Training Officers and Placement Officers which will be
-addressed as TPO hereon, while the other module is for the students.
+Placement Application is designed to facilitate effective communication between the Training and Placement Department and the students. The solution features two distinct modules: one for the Training and Placement Officers (TPO), and one for the students.
 
+The Placement Application is a user-friendly mobile application designed for Android phones, built using Java technology. The application features an intuitive interface, making it simple and efficient for users to register and log in. The TPO module allows officers to easily upload information about upcoming job drives, while the student module provides an overview of all available drives, enabling students to make informed decisions about which opportunities to pursue.
 
-The Placement Application is a Mobile Application developed using Java for Android
-Phones. It is very easy, simple and efficient to use. The process of Registering on the
-application is very simple and hassle-free. The application has separate Login Pages
-for TPO and for the Students. The TPO can upload information about the upcoming
-drives as when they get the information. The students can view all the information
-about the drive and opt which one they want to sit for you.
+The application's separate login pages and streamlined registration process ensure the security and privacy of sensitive information, while its intuitive design enhances the overall user experience and supports the efficient exchange of information between the Training and Placement Department and the students.
 
 Glimpses of the application: 
 
